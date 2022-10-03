@@ -15,9 +15,9 @@
 ## 🅰️ About Myself
 
 ```yaml
-name: Ayush Shete
+name: Pratiksha Ekbote
 located_in: Nagpur, Maharashtra, India
-Skills: Full Stack Developer, Machine Learning
+Skills: Graphic Designer, UI/UX Designer, 
 education:
   [
     "Self-Taught Developer and Designer",
