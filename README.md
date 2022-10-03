@@ -17,11 +17,11 @@
 ```yaml
 name: Pratiksha Ekbote
 located_in: Nagpur, Maharashtra, India
-Skills: Graphic Designer, UI/UX Designer, 
+Skills: Graphic Designer, UI/UX Designer, Front-End Developer, Website Designer.
 education:
   [
     "Self-Taught Developer and Designer",
-    "Software Developement",
+    "Graphic Designing and Front-end Development",
     "Bachelor's in Computer Science",
   ]
 company: GitHub
@@ -29,27 +29,28 @@ company: GitHub
 fields_of_interests:
   [
     "Web Development",
-    "Software Development",
+    "Graphic Designing",
     "Android Developement",
-    "ReactJS Developer"
-    "UI/UX"
+    "Web Designing"
+    "UI/UX Designing"
   ]
   
 Language:
   [
     "Python",
-    "JavaScript",
-    "Java"
+    "HTML",
+    "CSS",
+    "Js"
   ]
   
 Contact: 
   [
-    Linkdin: Pratikshaekbote, 
-    mail: ayushete2005@gmail.com, 
-    instagram: ayush_shete_0216
+    LinkedIn: Pratikshaekbote, 
+    Mail: ekbotepratiksha@gmail.com, 
+    Instagram: pratiksha_ekbote
   ]
   
-  Achievement: [Smart India Hackathon 2022 🏆]
+  Achievement: [BPR&D Website Design Competition Finalist]
   
 ```
 ### 🧰 Languages and Tools
