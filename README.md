@@ -109,8 +109,8 @@ Contact:
 
 <hr>
 <p align="center">
-  <a href="https://linkedin.com/in/ayushete" target="_blank"><img align="center" alt="Ayush Shete | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
-  <a href="https://www.instagram.com/ayush_shete_0216/" target="_blank"><img align="center" alt="Ayush Shete | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
-  <a href="https://twitter.com/Pratikshaekbote" target="_blank"><img align="center" alt="Ayush Shete | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pratikshaekbote/" target="_blank"><img align="center" alt="Pratiksha Ekbote | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
+  <a href="https://www.instagram.com/pratiksha_ekbote/" target="_blank"><img align="center" alt="Pratiksha Ekbote | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
+  <a href="https://twitter.com/EkbotePrat2" target="_blank"><img align="center" alt="Pratiksha Ekbote | Twitter" width="30px" src="./readme_media/twitter.png" /></a>&nbsp;
 </p>
 <hr>
