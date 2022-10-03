@@ -3,7 +3,7 @@
  <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> --> 
  <!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">--> 
   
- <img src="readme_media/headerImage.png" width="100%"/> 
+ <img src="readme_media/headerImage.png" width="100%"/>
   
  <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/> 
@@ -12,10 +12,10 @@
   
  </h1> 
   
- ## 🅰️ About Myself 
+ ## 🅰️ About Myself 
   
- yaml 
- name: Ayush Shete 
+ yaml
+name: Ayush Shete 
  located_in: Nagpur, Maharashtra, India 
  Skills: Full Stack Developer, Machine Learning 
  education: 
