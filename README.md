@@ -3,7 +3,7 @@
 <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
 <!-- <br><img width="100%" src="/./readme_media/Pratikshaekbotetagline.gif">-->
 
-<img src="readme_media/mateo-krossler-KsOWP1sH6W4-unsplash.jpg" width="100%" height=40%/>
+<img src="readme_media/Github Banner-01.png" width="100%" height=40%/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
