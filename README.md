@@ -110,6 +110,6 @@ Contact:
 <p align="center">
   <a href="https://www.linkedin.com/in/pratikshaekbote/" target="_blank"><img align="center" alt="Pratiksha Ekbote | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
   <a href="https://www.instagram.com/pratiksha_ekbote/" target="_blank"><img align="center" alt="Pratiksha Ekbote | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
-  <a href="https://www.behance.net/pratikshaekbote" target="_blank"><img align="center" alt="Pratiksha Ekbote | Behance" width="30px" src="./readme_media/" /></a>&nbsp;
+  <a href="https://www.behance.net/pratikshaekbote" target="_blank"><img align="center" alt="Pratiksha Ekbote | Behance" width="30px" src="readme_media/Behance-logo.jpg" /></a>&nbsp;
 </p>
 <hr>
