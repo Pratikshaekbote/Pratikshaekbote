@@ -100,11 +100,11 @@ Contact:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 </p>
 
-## 💡 Top Repositories
+<!-- ## 💡 Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pratikshaekbote&repo=Enchiper)](https://github.com/Pratikshaekbote/Enchiper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pratikshaekbote&repo=Air-Writing)](https://github.com/Pratikshaekbote/Air-Writing)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pratikshaekbote&repo=AI-Mood-Recognizer)](https://github.com/Pratikshaekbote/AI-Mood-Recognizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pratikshaekbote&repo=AI-Hand-Volume-Controller)](https://github.com/Pratikshaekbote/AI-Hand-Volume-Controller) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pratikshaekbote&repo=AI-Hand-Volume-Controller)](https://github.com/Pratikshaekbote/AI-Hand-Volume-Controller)  -->
 
 <hr>
 <p align="center">
