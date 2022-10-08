@@ -1,12 +1,12 @@
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Pratiksha Ekbote -->
 <!-- <br><img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif"> -->
-<!-- <br><img width="100%" src="/./readme_media/Ayushshetetagline.gif">-->
+<!-- <br><img width="100%" src="/./readme_media/Pratikshaekbotetagline.gif">-->
 
 <img src="readme_media/headerImage.png" width="100%"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&color=black&height=100&section=header"/>
 </p>
 
 
