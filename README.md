@@ -76,12 +76,12 @@ Contact:
 <br>
 
 ## 🔥 My Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pratikshaekbote&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratikshaekbote&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
   
 ## 🅰️ My Github Stats
 
-![Pratiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratikshaekbote&show_icons=true)
+![Pratiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikshaekbote&show_icons=true)
  
   
 ## 🌍 My Languages
