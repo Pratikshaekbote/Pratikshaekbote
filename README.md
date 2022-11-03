@@ -15,7 +15,7 @@
 ## 🅰️ About Myself
 
 ```yaml
-Name: Pratiksha Ekbote
+Name: Vanshita
 Location: Nagpur, Maharashtra, India
 Skills: Graphic Designer, UI/UX Designer, Front-End Developer, Website Designer.
 Education:
